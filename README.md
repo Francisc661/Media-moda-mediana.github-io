@@ -1,6 +1,4 @@
-# Med-a-moda-y-mediana-
-<!DOCTYPE html><html lang="es">
-<head>
+# Med-a-moda-y-mediana
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Media, Moda y Mediana</title>
